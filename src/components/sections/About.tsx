@@ -5,6 +5,10 @@ import { Code2, Lightbulb, Users, TrendingUp } from "lucide-react";
 
 const highlights = [
   {
+    icon: Code2,
+    title: "Technical Skills",
+    description: "Proficient in React, React Native, JavaScript, and modern web technologies.",
+  },
   {
     icon: Lightbulb,
     title: "Product Thinking",

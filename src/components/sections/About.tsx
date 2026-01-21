@@ -5,12 +5,9 @@ import { Code2, Lightbulb, Users, TrendingUp } from "lucide-react";
 
 const highlights = [
   {
-    {
-  icon: Code2,
-  title: "Technical Foundation",
-  description: "Strong foundation in React, React Native, and modern web technologies through academic projects and final-year industry training at Tech Mahindra.",
-}
-
+    icon: Code2,
+    title: "Technical Foundation",
+    description: "Strong foundation in React, React Native, and modern web technologies through academic projects and final-year industry training at Tech Mahindra.",
   },
   {
     icon: Lightbulb,

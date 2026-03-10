@@ -60,7 +60,7 @@ export function Experience() {
           <div className="text-center mb-16">
             <span className="text-sm font-medium text-primary mb-4 block">Journey</span>
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-              Training & <span className="gradient-text">Courses</span>
+              Experience & <span className="gradient-text">Education</span>
             </h2>
           </div>
 

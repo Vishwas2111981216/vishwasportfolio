@@ -60,7 +60,7 @@ export function Experience() {
           <div className="text-center mb-16">
             <span className="text-sm font-medium text-primary mb-4 block">Journey</span>
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-              Experience & <span className="gradient-text">Education</span>
+              Training & <span className="gradient-text">Education</span>
             </h2>
           </div>
 
@@ -71,7 +71,7 @@ export function Experience() {
                 <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
                   <Briefcase className="h-5 w-5 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold">Experience</h3>
+                <h3 className="text-xl font-semibold">Courses & Training</h3>
               </div>
 
               <div className="space-y-6">

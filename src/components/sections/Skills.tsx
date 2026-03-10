@@ -19,7 +19,7 @@ const skillCategories = [
     title: "Tools & Platforms",
     icon: Wrench,
     color: "from-[hsl(45_93%_47%)] to-[hsl(36_100%_50%)]",
-    skills: ["VS Code", "IntelliJ IDEA", "Figma", "Git/GitHub", "Postman", "Jira"],
+    skills: ["VS Code", "Figma", "GitHub", "Jira" , "Lovable"],
   },
   {
     title: "Soft Skills",
@@ -30,9 +30,12 @@ const skillCategories = [
 ];
 
 const certifications = [
+  { name: "Claude 101 ,  AI Fluency , Agents", issuer: "Antrhopic", date: "March 2026" },
+  { name: "Product	Management	Job	Simulation Electronic Arts", issuer: "Forge", date: "March 2026" },
+  { name: "Product Analytics", issuer: "Internshala", date: "Feb 2026" },
+  { name: "Product Development Lifecycle", issuer: "Internshala", date: "Feb 2026" },
   { name: "Product Design Training", issuer: "Internshala", date: "Jan 2026" },
   { name: "Product Management Fundamentals", issuer: "Internshala", date: "Nov 2025" },
-  { name: "Generative AI Mastermind", issuer: "Outskill", date: "2024" },
   { name: "AI Tools & ChatGPT Workshop", issuer: "be10X", date: "2024" },
   { name: "Frontend Development", issuer: "One Road Map", date: "2023" },
   { name: "Web Technologies", issuer: "Coding Ninjas", date: "2023" },
@@ -94,7 +97,7 @@ export function Skills() {
             transition={{ duration: 0.5, delay: 0.5 }}
             className="max-w-4xl mx-auto"
           >
-            <h3 className="text-xl font-semibold text-center mb-8">Certifications & Training</h3>
+            <h3 className="text-xl font-semibold text-center mb-8">Certifications</h3>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
               {certifications.map((cert, index) => (
                 <motion.div

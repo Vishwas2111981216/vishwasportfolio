@@ -25,6 +25,7 @@ const projects = [
     icon: Play,
     gradient: "from-[hsl(280_80%_60%)] to-[hsl(320_80%_50%)]",
     features: ["Video Streaming", "API Integration", "Cross-platform", "Intuitive UI"],
+    link: "https://youtube-clone-olive-xi.vercel.app/",
   },
   {
     id: 3,

@@ -25,16 +25,7 @@ const projects = [
     icon: Play,
     gradient: "from-[hsl(280_80%_60%)] to-[hsl(320_80%_50%)]",
     features: ["Video Streaming", "API Integration", "Cross-platform", "Intuitive UI"],
-  },
-  {
-    id: 3,
-    title: "Summarize-up",
-    description: "AI-powered summarization tool that condenses long content into concise, meaningful summaries.",
-    category: "development",
-    tags: ["AI/ML", "React.js", "NLP", "API Integration"],
-    icon: Sparkles,
-    gradient: "from-[hsl(45_93%_47%)] to-[hsl(36_100%_50%)]",
-    features: ["AI Summarization", "Content Processing", "Modern UI", "Fast Results"],
+    link: "https://youtube-clone-olive-xi.vercel.app/",
   },
   {
     id: 4,

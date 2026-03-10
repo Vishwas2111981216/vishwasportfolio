@@ -45,8 +45,8 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto mb-4"
           >
-            <span className="font-semibold text-foreground">Developer-turned-PM</span> passionate about building products that solve real problems. 
-            Final year CSE student with hands-on experience in React, React Native & Product Management.
+            <span className="font-semibold text-foreground">Fresh CSE Graduate</span> with a passion for Product Management. 
+            Completed B.E. in Computer Science & Engineering, now driven to build products that solve real problems.
           </motion.p>
 
           <motion.div
